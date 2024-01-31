@@ -1,0 +1,7 @@
+getgenv().Setting = {
+   ["StartFruitFarm"] = true,
+   ["Key"] = "PUTKEYHERE",
+   ["Webhook"] = "",
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxIDGubkuk/SonicZucifer/main/BjirZucifet"))()
